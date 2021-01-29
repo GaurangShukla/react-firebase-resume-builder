@@ -17,4 +17,4 @@ Will be uploading code soon , needed to port the code in typescript . will take 
 # Designed by
 Dribbble.com @Shamkio89 
 
-[![PREVIEW](https://www.youtube.com/watch?v=XMPEN3yq6zc)
+[![PREVIEW](https://img.youtube.com/vi/XMPEN3yq6zc/0.jpg)](https://www.youtube.com/watch?v=XMPEN3yq6zc)
